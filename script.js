@@ -53,12 +53,18 @@ function displayCards(data) {
  */
 function iniciarBusca() {
     const searchTerm = searchInput.value.toLowerCase();
-    const filteredData = allData.filter(item =>
-        item.nome.toLowerCase().includes(searchTerm) ||
-        item.descricao.toLowerCase().includes(searchTerm)
-    );
+    const filteredData = allData.filter(item => {
+        const searchInTags = item.tags.some(tag => tag.toLowerCase().includes(searchTerm));
+        return item.titulo.toLowerCase().includes(searchTerm) ||
+               item.genero.toLowerCase().includes(searchTerm) ||
+               item.diretor.toLowerCase().includes(searchTerm) ||
+               searchInTags;
+    });
     displayCards(filteredData);
 }
+
+// Adiciona o event listener para acionar a busca em tempo real
+searchInput.addEventListener('keyup', iniciarBusca);
 
 // Carrega os dados quando o script é executado
 loadData();
