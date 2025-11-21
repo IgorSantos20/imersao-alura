@@ -85,6 +85,7 @@ main {
 
 /* Estilo para os cards (a serem gerados pelo script.js) */
 .card {
+    padding: 5px;
     background-color: #222;
     border-radius: 8px;
     overflow: hidden;
