@@ -1,0 +1,402 @@
+[
+  {
+    "titulo": "Gladiador",
+    "ano_lancamento": "2000",
+    "genero": "Drama",
+    "diretor": "Ridley Scott",
+    "link": "https://pt.wikipedia.org/wiki/Gladiador_(filme)",
+    "tags": [
+      "Roma",
+      "Guerra",
+      "Vingança",
+      "Império",
+      "Batalhas"
+    ]
+  },
+  {
+    "titulo": "Náufrago",
+    "ano_lancamento": "2000",
+    "genero": "Drama",
+    "diretor": "Robert Zemeckis",
+    "link": "https://pt.wikipedia.org/wiki/Cast_Away",
+    "tags": [
+      "Sobrevivência",
+      "Ilha Deserta",
+      "Isolamento",
+      "FedEx",
+      "Humanidade"
+    ]
+  },
+  {
+    "titulo": "O Auto da Compadecida",
+    "ano_lancamento": "2000",
+    "genero": "Comédia",
+    "diretor": "Guel Arraes",
+    "link": "https://pt.wikipedia.org/wiki/O_Auto_da_Compadecida_(filme)",
+    "tags": [
+      "Nordeste Brasileiro",
+      "Comédia",
+      "Literatura de Cordel",
+      "Fé"
+    ]
+  },
+  {
+    "titulo": "Psicopata Americano",
+    "ano_lancamento": "2000",
+    "genero": "Terror",
+    "diretor": "Mary Harron",
+    "link": "https://pt.wikipedia.org/wiki/Psicopata_Americano",
+    "tags": [
+      "Sátira Social",
+      "Anos 80",
+      "Narcisismo",
+      "Wall Street",
+      "Crime"
+    ]
+  },
+  {
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano_lancamento": "2001",
+    "genero": "Fantasia",
+    "diretor": "Peter Jackson",
+    "link": "https://pt.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+    "tags": [
+      "Fantasia",
+      "Jornada",
+      "Magia",
+      "Amizade",
+      "Anel"
+    ]
+  },
+  {
+    "titulo": "O Poderoso Chefão",
+    "ano_lancamento": "1972",
+    "genero": "Crime",
+    "diretor": "Francis Ford Coppola",
+    "link": "https://pt.wikipedia.org/wiki/The_Godfather",
+    "tags": [
+      "máfia",
+      "drama",
+      "família",
+      "clássico",
+      "crime organizado"
+    ]
+  },
+  {
+    "titulo": "A Lista de Schindler",
+    "ano_lancamento": "1993",
+    "genero": "Drama Histórico",
+    "diretor": "Steven Spielberg",
+    "link": "https://pt.wikipedia.org/wiki/Schindler's_List",
+    "tags": [
+      "guerra",
+      "holocausto",
+      "histórico",
+      "emocionante"
+    ]
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "ano_lancamento": "1994",
+    "genero": "Crime",
+    "diretor": "Quentin Tarantino",
+    "link": "https://pt.wikipedia.org/wiki/Pulp_Fiction",
+    "tags": [
+      "não-linear",
+      "diálogos",
+      "cult",
+      "violento"
+    ]
+  },
+  {
+    "titulo": "Titanic",
+    "ano_lancamento": "1997",
+    "genero": "Romance Épico",
+    "diretor": "James Cameron",
+    "link": "https://pt.wikipedia.org/wiki/Titanic_(filme_de_1997)",
+    "tags": [
+      "desastre",
+      "épico",
+      "romance",
+      "histórico",
+      "tragédia"
+    ]
+  },
+  {
+    "titulo": "Forrest Gump",
+    "ano_lancamento": "1994",
+    "genero": "Drama",
+    "diretor": "Robert Zemeckis",
+    "link": "https://pt.wikipedia.org/wiki/Forrest_Gump",
+    "tags": [
+      "biográfico",
+      "inspirador",
+      "comovente",
+      "história americana"
+    ]
+  },
+  {
+    "titulo": "Parasita",
+    "ano_lancamento": "2019",
+    "genero": "Comédia Sombria",
+    "diretor": "Bong Joon-ho",
+    "link": "https://pt.wikipedia.org/wiki/Parasita_(filme)",
+    "tags": [
+      "desigualdade social",
+      "suspense",
+      "coreano",
+      "sátira"
+    ]
+  },
+  {
+    "titulo": "Birdman",
+    "ano_lancamento": "2014",
+    "genero": "Comédia Dramática",
+    "diretor": "Alejandro G. Iñárritu",
+    "link": "https://pt.wikipedia.org/wiki/Birdman_ou_(A_Inesperada_Virtude_da_Ignorância)",
+    "tags": [
+      "metalinguagem",
+      "teatro",
+      "existencial",
+      "plano-sequência"
+    ]
+  },
+  {
+    "titulo": "Mad Max: Estrada da Fúria",
+    "ano_lancamento": "2015",
+    "genero": "Ação",
+    "diretor": "George Miller",
+    "link": "https://pt.wikipedia.org/wiki/Mad_Max:_Fury_Road",
+    "tags": [
+      "pós-apocalíptico",
+      "corrida",
+      "distopia",
+      "visual"
+    ]
+  },
+  {
+    "titulo": "A Origem",
+    "ano_lancamento": "2010",
+    "genero": "Ficção Científica",
+    "diretor": "Christopher Nolan",
+    "link": "https://pt.wikipedia.org/wiki/Inception",
+    "tags": [
+      "sonhos",
+      "assalto",
+      "complexo",
+      "metafísico"
+    ]
+  },
+  {
+    "titulo": "A Rede Social",
+    "ano_lancamento": "2010",
+    "genero": "Drama Biográfico",
+    "diretor": "David Fincher",
+    "link": "https://pt.wikipedia.org/wiki/The_Social_Network",
+    "tags": [
+      "tecnologia",
+      "internet",
+      "biografia",
+      "empreendedorismo"
+    ]
+  },
+  {
+    "titulo": "Cisne Negro",
+    "ano_lancamento": "2010",
+    "genero": "Thriller Psicológico",
+    "diretor": "Darren Aronofsky",
+    "link": "https://pt.wikipedia.org/wiki/Black_Swan_(filme)",
+    "tags": [
+      "balé",
+      "obsessão",
+      "psicológico",
+      "performance"
+    ]
+  },
+  {
+    "titulo": "O Silêncio dos Inocentes",
+    "ano_lancamento": "1991",
+    "genero": "Terror Psicológico",
+    "diretor": "Jonathan Demme",
+    "link": "https://pt.wikipedia.org/wiki/The_Silence_of_the_Lambs_(filme)",
+    "tags": [
+      "serial killer",
+      "investigação",
+      "suspense",
+      "policial"
+    ]
+  },
+  {
+    "titulo": "2001: Uma Odisseia no Espaço",
+    "ano_lancamento": "1968",
+    "genero": "Ficção Científica",
+    "diretor": "Stanley Kubrick",
+    "link": "https://pt.wikipedia.org/wiki/2001:_A_Space_Odyssey",
+    "tags": [
+      "espaço",
+      "filosofia",
+      "evolução",
+      "icônico",
+      "clássico"
+    ]
+  },
+  {
+    "titulo": "Guerra nas Estrelas: Uma Nova Esperança",
+    "ano_lancamento": "1977",
+    "genero": "Ópera Espacial",
+    "diretor": "George Lucas",
+    "link": "https://pt.wikipedia.org/wiki/Star_Wars:_Episode_IV_%E2%80%93_A_New_Hope",
+    "tags": [
+      "fantasia",
+      "aventura",
+      "épico",
+      "ficção"
+    ]
+  },
+  {
+    "titulo": "Lawrence da Arábia",
+    "ano_lancamento": "1962",
+    "genero": "Épico Histórico",
+    "diretor": "David Lean",
+    "link": "https://pt.wikipedia.org/wiki/Lawrence_of_Arabia",
+    "tags": [
+      "guerra",
+      "biografia",
+      "deserto",
+      "grandioso"
+    ]
+  },
+  {
+    "titulo": "Casablanca",
+    "ano_lancamento": "1942",
+    "genero": "Romance/Drama",
+    "diretor": "Michael Curtiz",
+    "link": "https://pt.wikipedia.org/wiki/Casablanca_(filme)",
+    "tags": [
+      "Segunda Guerra Mundial",
+      "clássico",
+      "romance",
+      "político"
+    ]
+  },
+  {
+    "titulo": "E o Vento Levou",
+    "ano_lancamento": "1939",
+    "genero": "Romance Épico",
+    "diretor": "Victor Fleming",
+    "link": "https://pt.wikipedia.org/wiki/Gone_with_the_Wind_(filme)",
+    "tags": [
+      "Guerra Civil Americana",
+      "romance",
+      "histórico",
+      "drama"
+    ]
+  },
+  {
+    "titulo": "O Iluminado",
+    "ano_lancamento": "1980",
+    "genero": "Terror Psicológico",
+    "diretor": "Stanley Kubrick",
+    "link": "https://pt.wikipedia.org/wiki/The_Shining_(filme)",
+    "tags": [
+      "sobrenatural",
+      "isolamento",
+      "hotel",
+      "terror"
+    ]
+  },
+  {
+    "titulo": "O Cavaleiro das Trevas",
+    "ano_lancamento": "2008",
+    "genero": "Super-Herói",
+    "diretor": "Christopher Nolan",
+    "link": "https://pt.wikipedia.org/wiki/The_Dark_Knight",
+    "tags": [
+      "quadrinhos",
+      "ação",
+      "Gotham",
+      "sombrio",
+      "vilão icônico"
+    ]
+  },
+  {
+    "titulo": "La La Land",
+    "ano_lancamento": "2016",
+    "genero": "Musical",
+    "diretor": "Damien Chazelle",
+    "link": "https://pt.wikipedia.org/wiki/La_La_Land_(filme)",
+    "tags": [
+      "Los Angeles",
+      "jazz",
+      "sonhos",
+      "romance",
+      "musical"
+    ]
+  },
+  {
+    "titulo": "Moonlight",
+    "ano_lancamento": "2016",
+    "genero": "Drama",
+    "diretor": "Barry Jenkins",
+    "link": "https://pt.wikipedia.org/wiki/Moonlight_(filme_de_2016)",
+    "tags": [
+      "identidade",
+      "infância",
+      "sensível",
+      "LGBT"
+    ]
+  },
+  {
+    "titulo": "A Chegada",
+    "ano_lancamento": "2016",
+    "genero": "Ficção Científica",
+    "diretor": "Denis Villeneuve",
+    "link": "https://pt.wikipedia.org/wiki/Arrival_(filme)",
+    "tags": [
+      "alienígenas",
+      "linguística",
+      "comunicação",
+      "reflexivo"
+    ]
+  },
+  {
+    "titulo": "Whiplash",
+    "ano_lancamento": "2014",
+    "genero": "Drama Musical",
+    "diretor": "Damien Chazelle",
+    "link": "https://pt.wikipedia.org/wiki/Whiplash_(filme_de_2014)",
+    "tags": [
+      "música",
+      "obsessão",
+      "jazz",
+      "performance",
+      "intenso"
+    ]
+  },
+  {
+    "titulo": "Beleza Americana",
+    "ano_lancamento": "1999",
+    "genero": "Drama",
+    "diretor": "Sam Mendes",
+    "link": "https://pt.wikipedia.org/wiki/American_Beauty_(filme)",
+    "tags": [
+      "crise",
+      "subúrbio",
+      "existencial",
+      "premiado"
+    ]
+  },
+  {
+    "titulo": "O Artista",
+    "ano_lancamento": "2011",
+    "genero": "Comédia Romântica",
+    "diretor": "Michel Hazanavicius",
+    "link": "https://pt.wikipedia.org/wiki/The_Artist",
+    "tags": [
+      "cinema mudo",
+      "preto e branco",
+      "Hollywood",
+      "nostálgico"
+    ]
+  }
+]
