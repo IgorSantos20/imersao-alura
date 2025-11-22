@@ -43,11 +43,11 @@ function displayCards(data) {
                     <p>Ano da Premiação: ${item.ano_premiacao}</p>
                     <p>Diretor: ${item.diretor}</p>
                     <p>Gênero: ${item.genero}</p>
-                    <a href="${item.link}" target="_blank">Saiba mais</a>
                 </div>
                 <div class="card-image" style="margin-left: 20px;">
                     <img src="${item.capa}" alt="Capa do filme ${item.titulo}" style="max-width: 150px; height: auto;">
                 </div>
+                <a href="${item.link}" target="_blank">Saiba mais</a>
             </article>
         `;
         cardContainer.innerHTML += card;
