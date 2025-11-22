@@ -1,402 +1,492 @@
 [
   {
-    "titulo": "Gladiador",
-    "ano_lancamento": "2000",
+    "titulo": "Oppenheimer",
+    "ano_premiacao": "2024",
+    "genero": "Histórico",
+    "diretor": "Christopher Nolan",
+    "link": "https://pt.wikipedia.org/wiki/Oppenheimer_(filme)",
+    "tags": [
+      "Segunda Guerra Mundial", 
+      "Ciência",
+      "Drama Histórico",
+      "Bomba Atômica"
+    ],
+    "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/05/08/10/29/0695770.jpg"
+  },
+
+  {
+    "titulo": "Tudo em Todo o Lugar ao Mesmo Tempo",
+    "ano_premiacao": "2023",
+    "genero": "Ação",
+    "diretor": "Daniel Kwan, Daniel Scheinert", 
+    "link": "https://pt.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+    "tags": [
+      "Multiverso", 
+      "Família",
+      "Comédia Absurda",
+      "Artes Marciais",
+      "Existencialismo"
+    ],
+    "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/22/05/16/17/59/5165498.jpg"
+  },
+
+  {
+    "titulo": "No Ritmo do Coração (CODA)",
+    "ano_premiacao": "2022",
     "genero": "Drama",
-    "diretor": "Ridley Scott",
-    "link": "https://pt.wikipedia.org/wiki/Gladiador_(filme)",
+    "diretor": "Sian Heder", 
+    "link": "https://pt.wikipedia.org/wiki/CODA_(filme_de_2021)",
     "tags": [
-      "Roma",
-      "Guerra",
-      "Vingança",
-      "Império",
-      "Batalhas"
-    ]
+      "Família", 
+      "Música",
+      "Comunidade Surda",
+      "Coming-of-Age",
+      "Pesca"
+    ],
+    "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/21/09/14/15/35/4660914.jpg"
   },
+
   {
-    "titulo": "Náufrago",
-    "ano_lancamento": "2000",
+    "titulo": "Nomadland",
+    "ano_premiacao": "2021",
     "genero": "Drama",
-    "diretor": "Robert Zemeckis",
-    "link": "https://pt.wikipedia.org/wiki/Cast_Away",
+    "diretor": "Chloé Zhao", 
+    "link": "https://pt.wikipedia.org/wiki/Nomadland",
     "tags": [
-      "Sobrevivência",
-      "Ilha Deserta",
-      "Isolamento",
-      "FedEx",
-      "Humanidade"
-    ]
+      "Crise Econõmica", 
+      "Viagem",
+      "Nômades Modernos",
+      "Vida na Estrada",
+      "Solidão"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/9/94/Nomadland_%28cartaz%29.png"
   },
-  {
-    "titulo": "O Auto da Compadecida",
-    "ano_lancamento": "2000",
-    "genero": "Comédia",
-    "diretor": "Guel Arraes",
-    "link": "https://pt.wikipedia.org/wiki/O_Auto_da_Compadecida_(filme)",
-    "tags": [
-      "Nordeste Brasileiro",
-      "Comédia",
-      "Literatura de Cordel",
-      "Fé"
-    ]
-  },
-  {
-    "titulo": "Psicopata Americano",
-    "ano_lancamento": "2000",
-    "genero": "Terror",
-    "diretor": "Mary Harron",
-    "link": "https://pt.wikipedia.org/wiki/Psicopata_Americano",
-    "tags": [
-      "Sátira Social",
-      "Anos 80",
-      "Narcisismo",
-      "Wall Street",
-      "Crime"
-    ]
-  },
-  {
-    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
-    "ano_lancamento": "2001",
-    "genero": "Fantasia",
-    "diretor": "Peter Jackson",
-    "link": "https://pt.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
-    "tags": [
-      "Fantasia",
-      "Jornada",
-      "Magia",
-      "Amizade",
-      "Anel"
-    ]
-  },
-  {
-    "titulo": "O Poderoso Chefão",
-    "ano_lancamento": "1972",
-    "genero": "Crime",
-    "diretor": "Francis Ford Coppola",
-    "link": "https://pt.wikipedia.org/wiki/The_Godfather",
-    "tags": [
-      "máfia",
-      "drama",
-      "família",
-      "clássico",
-      "crime organizado"
-    ]
-  },
-  {
-    "titulo": "A Lista de Schindler",
-    "ano_lancamento": "1993",
-    "genero": "Drama Histórico",
-    "diretor": "Steven Spielberg",
-    "link": "https://pt.wikipedia.org/wiki/Schindler's_List",
-    "tags": [
-      "guerra",
-      "holocausto",
-      "histórico",
-      "emocionante"
-    ]
-  },
-  {
-    "titulo": "Pulp Fiction",
-    "ano_lancamento": "1994",
-    "genero": "Crime",
-    "diretor": "Quentin Tarantino",
-    "link": "https://pt.wikipedia.org/wiki/Pulp_Fiction",
-    "tags": [
-      "não-linear",
-      "diálogos",
-      "cult",
-      "violento"
-    ]
-  },
-  {
-    "titulo": "Titanic",
-    "ano_lancamento": "1997",
-    "genero": "Romance Épico",
-    "diretor": "James Cameron",
-    "link": "https://pt.wikipedia.org/wiki/Titanic_(filme_de_1997)",
-    "tags": [
-      "desastre",
-      "épico",
-      "romance",
-      "histórico",
-      "tragédia"
-    ]
-  },
-  {
-    "titulo": "Forrest Gump",
-    "ano_lancamento": "1994",
-    "genero": "Drama",
-    "diretor": "Robert Zemeckis",
-    "link": "https://pt.wikipedia.org/wiki/Forrest_Gump",
-    "tags": [
-      "biográfico",
-      "inspirador",
-      "comovente",
-      "história americana"
-    ]
-  },
+
   {
     "titulo": "Parasita",
-    "ano_lancamento": "2019",
-    "genero": "Comédia Sombria",
-    "diretor": "Bong Joon-ho",
-    "link": "https://pt.wikipedia.org/wiki/Parasita_(filme)",
+    "ano_premiacao": "2020",
+    "genero": "Drama",
+    "diretor": "Bong Joo Ho", 
+    "link": "https://pt.wikipedia.org/wiki/Gisaengchung",
     "tags": [
-      "desigualdade social",
-      "suspense",
-      "coreano",
-      "sátira"
-    ]
+      "Sátira Social", 
+      "Classes Sociais",
+      "Coreia do Sul",
+      "Invasão",
+      "Luta de Classes"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/b/be/Parasite_poster.jpg"
   },
+
   {
-    "titulo": "Birdman",
-    "ano_lancamento": "2014",
+    "titulo": "Green Book: O Guia",
+    "ano_premiacao": "2019",
+    "genero": "Biografia"
+,    "diretor": "Peter Farrelly", 
+    "link": "https://pt.wikipedia.org/wiki/Green_Book",
+    "tags": [
+      "Amizade", 
+      "Preconceito Racial",
+      "Anos 60",
+      "Viagem",
+      "Drama Histórico"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/f/f0/Green_Book_-_Poster.jpg"
+  },
+
+  {
+    "titulo": "A Forma da Água",
+    "ano_premiacao": "2018",
+    "genero": "Fantasia",
+    "diretor": "Guillermo del Toro", 
+    "link": "https://pt.wikipedia.org/wiki/A_Forma_da_Água",
+    "tags": [
+      "Guerra Fria", 
+      "Criatura",
+      "Conto de Faddas",
+      "Monstro",
+      "Experimento Científico"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/2/2a/The_Shape_of_Water_%28filme%29.png"
+  },
+
+  {
+    "titulo": "Moonlight: Sob a Luz do Luar",
+    "ano_premiacao": "2017",
+    "genero": "Drama",
+    "diretor": "Barry Jenkins", 
+    "link": "https://pt.wikipedia.org/wiki/Moonlight_(filme)",
+    "tags": [
+      "Coming-of-Age", 
+      "Identidade",
+      "Homossexualidade",
+      "Quebrada de Estrutura",
+      "Miami"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/f/f3/Moonlight_%28filme%29.png"
+  },
+
+  {
+    "titulo": "Spotlight: Segredos Revelados",
+    "ano_premiacao": "2016",
+    "genero": "Drama Jornalístico",
+    "diretor": "Tom McCarthy",
+    "link": "https://pt.wikipedia.org/wiki/Spotlight_(filme)",
+    "tags": [
+      "investigação",
+      "baseado_em_fatos",
+      "jornalismo",
+      "religioso"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/f/f4/Spotlight_%28filme%29.jpg"
+  },
+
+  {
+    "titulo": "Birdman ou (A Inesperada Virtude da Ignorância)",
+    "ano_premiacao": "2015",
     "genero": "Comédia Dramática",
-    "diretor": "Alejandro G. Iñárritu",
+    "diretor": "Alejandro González Iñárritu",
     "link": "https://pt.wikipedia.org/wiki/Birdman_ou_(A_Inesperada_Virtude_da_Ignorância)",
     "tags": [
       "metalinguagem",
       "teatro",
-      "existencial",
-      "plano-sequência"
-    ]
+      "crise_existencial",
+      "plano_sequencia"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/4/4d/Birdmanposter.jpg"
   },
+
   {
-    "titulo": "Mad Max: Estrada da Fúria",
-    "ano_lancamento": "2015",
-    "genero": "Ação",
-    "diretor": "George Miller",
-    "link": "https://pt.wikipedia.org/wiki/Mad_Max:_Fury_Road",
+    "titulo": "12 Anos de Escravidão",
+    "ano_premiacao": "2014",
+    "genero": "Drama Histórico",
+    "diretor": "Steve McQueen",
+    "link": "https://pt.wikipedia.org/wiki/12_Years_a_Slave",
     "tags": [
-      "pós-apocalíptico",
-      "corrida",
-      "distopia",
-      "visual"
-    ]
-  },
-  {
-    "titulo": "A Origem",
-    "ano_lancamento": "2010",
-    "genero": "Ficção Científica",
-    "diretor": "Christopher Nolan",
-    "link": "https://pt.wikipedia.org/wiki/Inception",
-    "tags": [
-      "sonhos",
-      "assalto",
-      "complexo",
-      "metafísico"
-    ]
-  },
-  {
-    "titulo": "A Rede Social",
-    "ano_lancamento": "2010",
-    "genero": "Drama Biográfico",
-    "diretor": "David Fincher",
-    "link": "https://pt.wikipedia.org/wiki/The_Social_Network",
-    "tags": [
-      "tecnologia",
-      "internet",
+      "escravidão",
       "biografia",
-      "empreendedorismo"
-    ]
+      "sofrimento",
+      "século_XIX"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Twelve_Years_a_Slave.jpg"
   },
   {
-    "titulo": "Cisne Negro",
-    "ano_lancamento": "2010",
-    "genero": "Thriller Psicológico",
-    "diretor": "Darren Aronofsky",
-    "link": "https://pt.wikipedia.org/wiki/Cisne_Negro",
+    "titulo": "Argo",
+    "ano_premiacao": "2013",
+    "genero": "Thriller Político",
+    "diretor": "Ben Affleck",
+    "link": "https://pt.wikipedia.org/wiki/Argo_(filme_de_2012)",
     "tags": [
-      "balé",
-      "obsessão",
-      "psicológico",
-      "performance"
-    ]
-  },
-  {
-    "titulo": "O Silêncio dos Inocentes",
-    "ano_lancamento": "1991",
-    "genero": "Terror Psicológico",
-    "diretor": "Jonathan Demme",
-    "link": "https://pt.wikipedia.org/wiki/O_Silêncio_dos_Inocentes",
-    "tags": [
-      "serial killer",
-      "investigação",
-      "suspense",
-      "policial"
-    ]
-  },
-  {
-    "titulo": "2001: Uma Odisseia no Espaço",
-    "ano_lancamento": "1968",
-    "genero": "Ficção Científica",
-    "diretor": "Stanley Kubrick",
-    "link": "https://pt.wikipedia.org/wiki/2001:_A_Space_Odyssey",
-    "tags": [
-      "espaço",
-      "filosofia",
-      "evolução",
-      "icônico",
-      "clássico"
-    ]
-  },
-  {
-    "titulo": "Guerra nas Estrelas: Uma Nova Esperança",
-    "ano_lancamento": "1977",
-    "genero": "Ópera Espacial",
-    "diretor": "George Lucas",
-    "link": "https://pt.wikipedia.org/wiki/Star_Wars:_Episódio_IV_–_Uma_Nova_Esperança",
-    "tags": [
-      "fantasia",
-      "aventura",
-      "épico",
-      "ficção"
-    ]
-  },
-  {
-    "titulo": "Lawrence da Arábia",
-    "ano_lancamento": "1962",
-    "genero": "Épico Histórico",
-    "diretor": "David Lean",
-    "link": "https://pt.wikipedia.org/wiki/Lawrence_of_Arabia",
-    "tags": [
-      "guerra",
-      "biografia",
-      "deserto",
-      "grandioso"
-    ]
-  },
-  {
-    "titulo": "Casablanca",
-    "ano_lancamento": "1942",
-    "genero": "Romance/Drama",
-    "diretor": "Michael Curtiz",
-    "link": "https://pt.wikipedia.org/wiki/Casablanca_(filme)",
-    "tags": [
-      "Segunda Guerra Mundial",
-      "clássico",
-      "romance",
-      "político"
-    ]
-  },
-  {
-    "titulo": "E o Vento Levou",
-    "ano_lancamento": "1939",
-    "genero": "Romance Épico",
-    "diretor": "Victor Fleming",
-    "link": "https://en-wikipedia-org.translate.goog/wiki/Gone_with_the_Wind_(film)?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc",
-    "tags": [
-      "Guerra Civil Americana",
-      "romance",
-      "histórico",
-      "drama"
-    ]
-  },
-  {
-    "titulo": "O Iluminado",
-    "ano_lancamento": "1980",
-    "genero": "Terror Psicológico",
-    "diretor": "Stanley Kubrick",
-    "link": "https://pt.wikipedia.org/wiki/The_Shining_(filme)",
-    "tags": [
-      "sobrenatural",
-      "isolamento",
-      "hotel",
-      "terror"
-    ]
-  },
-  {
-    "titulo": "O Cavaleiro das Trevas",
-    "ano_lancamento": "2008",
-    "genero": "Super-Herói",
-    "diretor": "Christopher Nolan",
-    "link": "https://pt.wikipedia.org/wiki/The_Dark_Knight",
-    "tags": [
-      "quadrinhos",
-      "ação",
-      "Gotham",
-      "sombrio",
-      "vilão icônico"
-    ]
-  },
-  {
-    "titulo": "La La Land",
-    "ano_lancamento": "2016",
-    "genero": "Musical",
-    "diretor": "Damien Chazelle",
-    "link": "https://pt.wikipedia.org/wiki/La_La_Land_(filme)",
-    "tags": [
-      "Los Angeles",
-      "jazz",
-      "sonhos",
-      "romance",
-      "musical"
-    ]
-  },
-  {
-    "titulo": "Moonlight",
-    "ano_lancamento": "2016",
-    "genero": "Drama",
-    "diretor": "Barry Jenkins",
-    "link": "https://pt.wikipedia.org/wiki/Moonlight_(filme)",
-    "tags": [
-      "identidade",
-      "infância",
-      "sensível",
-      "LGBT"
-    ]
-  },
-  {
-    "titulo": "A Chegada",
-    "ano_lancamento": "2016",
-    "genero": "Ficção Científica",
-    "diretor": "Denis Villeneuve",
-    "link": "https://pt.wikipedia.org/wiki/Arrival_(filme)",
-    "tags": [
-      "alienígenas",
-      "linguística",
-      "comunicação",
-      "reflexivo"
-    ]
-  },
-  {
-    "titulo": "Whiplash",
-    "ano_lancamento": "2014",
-    "genero": "Drama Musical",
-    "diretor": "Damien Chazelle",
-    "link": "https://pt.wikipedia.org/wiki/Whiplash_(filme)",
-    "tags": [
-      "música",
-      "obsessão",
-      "jazz",
-      "performance",
-      "intenso"
-    ]
-  },
-  {
-    "titulo": "Beleza Americana",
-    "ano_lancamento": "1999",
-    "genero": "Drama",
-    "diretor": "Sam Mendes",
-    "link": "https://pt.wikipedia.org/wiki/Beleza_Americana",
-    "tags": [
-      "crise",
-      "subúrbio",
-      "existencial",
-      "premiado"
-    ]
+      "guerra_fria",
+      "resgate",
+      "irã",
+      "baseado_em_fatos",
+      "espionagem"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/e/e1/Argo2012Poster.jpg"
   },
   {
     "titulo": "O Artista",
-    "ano_lancamento": "2011",
+    "ano_premiacao": "2012",
     "genero": "Comédia Romântica",
     "diretor": "Michel Hazanavicius",
-    "link": "https://pt.wikipedia.org/wiki/The_Artist",
+    "link": "https://pt.wikipedia.org/wiki/The_Artist_(filme)",
     "tags": [
-      "cinema mudo",
-      "preto e branco",
-      "Hollywood",
-      "nostálgico"
-    ]
+      "cinema_mudo",
+      "preto_e_branco",
+      "hollywood",
+      "anos_1920"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/b/be/TheArtist-P%C3%B4ster.jpg"
+  },
+  {
+    "titulo": "O Discurso do Rei",
+    "ano_premiacao": "2011",
+    "genero": "Drama Histórico",
+    "diretor": "Tom Hooper",
+    "link": "https://pt.wikipedia.org/wiki/The_King%27s_Speech",
+    "tags": [
+      "monarquia",
+      "superação",
+      "realeza",
+      "inglaterra"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/f/fe/TheKingsSpeech.jpg"
+  },
+  {
+    "titulo": "Guerra ao Terror",
+    "ano_premiacao": "2010",
+    "genero": "Guerra/Thriller",
+    "diretor": "Kathryn Bigelow",
+    "link": "https://pt.wikipedia.org/wiki/The_Hurt_Locker",
+    "tags": [
+      "iraque",
+      "militar",
+      "adrenalina",
+      "desativação_de_bombas"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/8/82/Hurt_locker.jpg"
+  },
+  {
+    "titulo": "Quem Quer Ser um Milionário?",
+    "ano_premiacao": "2009",
+    "genero": "Drama/Romance",
+    "diretor": "Danny Boyle",
+    "link": "https://pt.wikipedia.org/wiki/Slumdog_Millionaire",
+    "tags": [
+      "índia",
+      "quebra-cabeça",
+      "destino",
+      "pobreza"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/8/82/Slumdog_Millionaire_2008.jpg"
+  },
+  {
+    "titulo": "Onde os Fracos Não Têm Vez",
+    "ano_premiacao": "2008",
+    "genero": "Neo-Western/Thriller",
+    "diretor": "Joel e Ethan Coen",
+    "link": "https://pt.wikipedia.org/wiki/No_Country_for_Old_Men",
+    "tags": [
+      "coen_brothers",
+      "violência",
+      "texas",
+      "filosofico",
+      "perseguição"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/0/00/No_country_for_old_men.png"
+  },
+  {
+    "titulo": "Os Infiltrados",
+    "ano_premiacao": "2007",
+    "genero": "Policial/Thriller",
+    "diretor": "Martin Scorsese",
+    "link": "https://pt.wikipedia.org/wiki/The_Departed",
+    "tags": [
+      "máfia",
+      "polícia",
+      "boston",
+      "infiltração",
+      "lealdade"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/b/b8/TheDepartedposter.jpg"
+  },
+  {
+    "titulo": "Crash: No Limite",
+    "ano_premiacao": "2006",
+    "genero": "Drama",
+    "diretor": "Paul Haggis",
+    "link": "https://pt.wikipedia.org/wiki/Crash_(filme_de_2004)",
+    "tags": [
+      "racismo",
+      "los_angeles",
+      "intersecções",
+      "preconceito"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/c/ca/Crash_%282004%29.jpg"
+  },
+  {
+    "titulo": "Menina de Ouro",
+    "ano_premiacao": "2005",
+    "genero": "Drama Esportivo",
+    "diretor": "Clint Eastwood",
+    "link": "https://pt.wikipedia.org/wiki/Million_Dollar_Baby",
+    "tags": [
+      "boxe",
+      "trágico",
+      "sacrifício",
+      "redenção"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/c/cf/Million_Dollar_Baby.jpg"
+  },
+  {
+    "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+    "ano_premiacao": "2004",
+    "genero": "Fantasia/Aventura",
+    "diretor": "Peter Jackson",
+    "link": "https://pt.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+    "tags": [
+      "épico",
+      "fantasia",
+      "batalha",
+      "terceiro_ato",
+      "tolkien"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/0/0d/EsdlaIII.jpg"
+  },
+  {
+    "titulo": "Chicago",
+    "ano_premiacao": "2003",
+    "genero": "Musical/Crime",
+    "diretor": "Rob Marshall",
+    "link": "https://pt.wikipedia.org/wiki/Chicago_(filme)",
+    "tags": [
+      "jazz",
+      "anos_20",
+      "corrupção",
+      "teatro",
+      "assassinato"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/7/7f/Chicago_2002.jpg"
+  },
+  {
+    "titulo": "Uma Mente Brilhante",
+    "ano_premiacao": "2002",
+    "genero": "Drama Biográfico",
+    "diretor": "Ron Howard",
+    "link": "https://pt.wikipedia.org/wiki/Uma_Mente_Brilhante",
+    "tags": [
+      "matemática",
+      "esquizofrenia",
+      "biografia",
+      "gênio"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/b/b1/UmaMenteBrilhante.jpg"
+  },
+  {
+    "titulo": "Gladiador",
+    "ano_premiacao": "2001",
+    "genero": "Épico Histórico",
+    "diretor": "Ridley Scott",
+    "link": "https://pt.wikipedia.org/wiki/Gladiator_(filme)",
+    "tags": [
+      "roma_antiga",
+      "vingança",
+      "batalha",
+      "imperio",
+      "arena"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/4/44/GladiadorPoster.jpg"
+  },
+  {
+    "titulo": "Beleza Americana",
+    "ano_premiacao": "2000",
+    "genero": "Drama",
+    "diretor": "Sam Mendes",
+    "link": "https://pt.wikipedia.org/wiki/American_Beauty",
+    "tags": [
+      "crise_de_meia_idade",
+      "subúrbio",
+      "obsessão",
+      "família_disfuncional"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/9/99/AmericanBeautyPoster.jpg"
+  },
+  {
+    "titulo": "Shakespeare Apaixonado",
+    "ano_premiacao": "1999",
+    "genero": "Comédia Romântica Histórica",
+    "diretor": "John Madden",
+    "link": "https://pt.wikipedia.org/wiki/Shakespeare_in_Love",
+    "tags": [
+      "teatro",
+      "século_XVI",
+      "romance",
+      "comédia"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/2/22/Shakespeare_in_Love.jpg"
+  },
+  {
+    "titulo": "Titanic",
+    "ano_premiacao": "1998",
+    "genero": "Drama Romântico",
+    "diretor": "James Cameron",
+    "link": "https://pt.wikipedia.org/wiki/Titanic_(filme_de_1997)",
+    "tags": [
+      "romance",
+      "desastre",
+      "épico",
+      "viagem"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/2/22/Titanic_poster.jpg"
+  },
+  {
+    "titulo": "O Paciente Inglês",
+    "ano_premiacao": "1997",
+    "genero": "Drama de Guerra",
+    "diretor": "Anthony Minghella",
+    "link": "https://pt.wikipedia.org/wiki/The_English_Patient",
+    "tags": [
+      "segunda_guerra",
+      "memórias",
+      "romance",
+      "África",
+      "mistério"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/c/ca/The_English_Patient.jpg"
+  },
+  {
+    "titulo": "Coração Valente",
+    "ano_premiacao": "1996",
+    "genero": "Épico Histórico",
+    "diretor": "Mel Gibson",
+    "link": "https://pt.wikipedia.org/wiki/Braveheart",
+    "tags": [
+      "escócia",
+      "independência",
+      "guerra",
+      "liberdade",
+      "medieval"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/0/0e/Braveheart_poster.jpg"
+  },
+  {
+    "titulo": "Forrest Gump: O Contador de Histórias",
+    "ano_premiacao": "1995",
+    "genero": "Comédia Dramática",
+    "diretor": "Robert Zemeckis",
+    "link": "https://pt.wikipedia.org/wiki/Forrest_Gump",
+    "tags": [
+      "história_americana",
+      "inocência",
+      "guerra_do_vietnã",
+      "narrativa"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/c/c0/ForrestGumpPoster.jpg"
+  },
+  {
+    "titulo": "A Lista de Schindler",
+    "ano_premiacao": "1994",
+    "genero": "Drama Histórico",
+    "diretor": "Steven Spielberg",
+    "link": "https://pt.wikipedia.org/wiki/Schindler%27s_List",
+    "tags": [
+      "holocausto",
+      "segunda_guerra",
+      "preto_e_branco",
+      "tragédia",
+      "resgate"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/1/1d/SchindlerPoster.jpg"
+  },
+  {
+    "titulo": "Os Imperdoáveis",
+    "ano_premiacao": "1993",
+    "genero": "Faroeste",
+    "diretor": "Clint Eastwood",
+    "link": "https://pt.wikipedia.org/wiki/Unforgiven",
+    "tags": [
+      "faroeste",
+      "vingança",
+      "anti-herói",
+      "redenção",
+      "violência"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/2/25/Unforgiven.jpg"
+  },
+  {
+    "titulo": "O Silêncio dos Inocentes",
+    "ano_premiacao": "1992",
+    "genero": "Thriller Psicológico",
+    "diretor": "Jonathan Demme",
+    "link": "https://pt.wikipedia.org/wiki/The_Silence_of_the_Lambs_(filme)",
+    "tags": [
+      "serial_killer",
+      "fbi",
+      "terror",
+      "psicopata",
+      "suspense"
+    ],
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/0/0a/Silence_of_the_lambs.png"
   }
 ]
